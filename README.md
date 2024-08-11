@@ -1,4 +1,4 @@
-
+![logo](https://user-images.githubusercontent.com/66074608/224107954-9878773b-8814-4f97-b640-686db58994f6.gif)
 <h1 align="center">Hi 👋, I'm Anshika thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
